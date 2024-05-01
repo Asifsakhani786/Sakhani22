@@ -1083,17 +1083,14 @@ for xd in range(10000):
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
 
-logo = """
-   
-                                         
-                                         
-      db       .M"""bgd `7MMF'`7MM"""YMM 
-     ;MM:     ,MI    "Y   MM    MM    `7 
-    ,V^MM.    `MMb.       MM    MM   d   
-   ,M  `MM      `YMMNq.   MM    MM""MM   
-   AbmmmqMA   .     `MM   MM    MM   Y   
-  A'     VML  Mb     dM   MM    MM       
-.AMA.   .AMMA.P"Ybmmd"  .JMML..JMML.                                         
+logo = ""  
+ _______  _______  ___   _______ 
+|   _   ||       ||   | |       |
+|  |_|  ||  _____||   | |    ___|
+|       || |_____ |   | |   |___ 
+|       ||_____  ||   | |    ___|
+|   _   | _____| ||   | |   |    
+|__| |__||_______||___| |___|    
 --------------------------------------------------
 (+) AUTHOR     : \033[1;32mASIF SAKHANI \033[1;37m
 (+) Whatsapp     : \033[1;32m03417020930\033[1;37m
