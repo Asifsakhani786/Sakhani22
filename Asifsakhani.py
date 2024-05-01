@@ -1083,15 +1083,25 @@ for xd in range(10000):
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
 
-logo = ""  
-
- _______  _______  ___   _______ 
-|   _   ||       ||   | |       |
-|  |_|  ||  _____||   | |    ___|
-|       || |_____ |   | |   |___ 
-|       ||_____  ||   | |    ___|
-|   _   | _____| ||   | |   |    
-|__| |__||_______||___| |___|    
+logo                                                                     
+                                                                                   
+               AAA                 SSSSSSSSSSSSSSS IIIIIIIIIIFFFFFFFFFFFFFFFFFFFFFF
+              A:::A              SS:::::::::::::::SI::::::::IF::::::::::::::::::::F
+             A:::::A            S:::::SSSSSS::::::SI::::::::IF::::::::::::::::::::F
+            A:::::::A           S:::::S     SSSSSSSII::::::IIFF::::::FFFFFFFFF::::F
+           A:::::::::A          S:::::S              I::::I    F:::::F       FFFFFF
+          A:::::A:::::A         S:::::S              I::::I    F:::::F             
+         A:::::A A:::::A         S::::SSSS           I::::I    F::::::FFFFFFFFFF   
+        A:::::A   A:::::A         SS::::::SSSSS      I::::I    F:::::::::::::::F   
+       A:::::A     A:::::A          SSS::::::::SS    I::::I    F:::::::::::::::F   
+      A:::::AAAAAAAAA:::::A            SSSSSS::::S   I::::I    F::::::FFFFFFFFFF   
+     A:::::::::::::::::::::A                S:::::S  I::::I    F:::::F             
+    A:::::AAAAAAAAAAAAA:::::A               S:::::S  I::::I    F:::::F             
+   A:::::A             A:::::A  SSSSSSS     S:::::SII::::::IIFF:::::::FF           
+  A:::::A               A:::::A S::::::SSSSSS:::::SI::::::::IF::::::::FF           
+ A:::::A                 A:::::AS:::::::::::::::SS I::::::::IF::::::::FF           
+AAAAAAA                   AAAAAAASSSSSSSSSSSSSSS   IIIIIIIIIIFFFFFFFFFFF           
+                                                                               
 --------------------------------------------------
 (+) AUTHOR     : \033[1;32mASIF SAKHANI \033[1;37m
 (+) Whatsapp     : \033[1;32m03417020930\033[1;37m
